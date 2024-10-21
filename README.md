@@ -1,2 +1,3 @@
-# azure_resumo-do-lab.
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+# Bootcamp Microsoft Azure Essentials.
+
+Neste módulo aprendemos como criar um simples projeto de IA usando o Azure AI.
